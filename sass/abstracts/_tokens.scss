@@ -74,7 +74,7 @@ $site-header-background-color: $color-brand-primary-100;
 $site-header-color: $color-neutral-700;
 $site-header-padding: $size-8 0;
 $site-header-margin: 0;
-$site-header-justification-small-screens: center;
+$site-header-justification-small-screens: space-between;
 $site-header-justification-large-screens: space-between;
 $site-header-alignment: center;
 
@@ -104,8 +104,8 @@ $button-padding: .5em 1em;
 $button-border: 0;
 $button-border-radius: $border-radius-1;
 
-$button-primary-color: $color-brand-primary-400;
-$button-primary-background: $color-neutral-000;
+$button-primary-color: $color-neutral-000;
+$button-primary-background: $color-brand-primary-400;
 $button-primary-color-hover: $color-brand-primary-700;
 $button-primary-background-hover: $color-cyan-300;
 $button-accent-color: $color-brand-primary-700;
